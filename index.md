@@ -1,7 +1,7 @@
 ![The imagine](images/imagine.png)
 # Hello World
 
-This is my home page! My name is Your Name and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is your_major.
+This is my home page! My name is Christian Rodriguez and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is computer science.
 
 ## Computer Science Projects
 
